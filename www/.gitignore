@@ -1,0 +1,22 @@
+# ignore not programm files.
+.htaccess
+*.html
+*.txt
+*.BAK
+
+#images
+*.gif
+*.GIF
+*.jpg
+*.JPG
+*.ico
+*.png
+*.bmp
+
+#datas
+*.xls
+*.xlsx
+*.zip
+*.mp3
+*.wma
+*.ppt
